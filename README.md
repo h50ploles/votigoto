@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add docstrings to new HUB functions (#7576)
