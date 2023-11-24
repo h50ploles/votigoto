@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Fix TypeError in check_cfg() (#9245)
