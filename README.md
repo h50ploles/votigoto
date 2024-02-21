@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
